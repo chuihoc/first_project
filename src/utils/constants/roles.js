@@ -1,0 +1,5 @@
+export const VOCS_SPACE = "SCONNECT";
+export const ROLE_ADMIN = VOCS_SPACE + "/ROLE_ADMIN";
+export const ROLE_HR_LEADER = VOCS_SPACE + "/ROLE_HR_LEADER";
+export const ROLE_HR_STAFF = VOCS_SPACE + "/ROLE_HR_STAFF";
+export const ROLE_USER = VOCS_SPACE + "/ROLE_USER";

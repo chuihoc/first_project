@@ -1,0 +1,5 @@
+export { default as logoSvmc } from './logo-svmc.png'
+export { default as logoVocs } from './logo-vocs.svg'
+export { default as avatar } from './avatar.jpg'
+export { default as img_default1 } from './img_default1.jpg'
+export { default as img_default } from './img_default.jpg'
